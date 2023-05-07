@@ -1,2 +1,18 @@
-# awesome-team-building
-Resources for Remote Team Building Activities
+Awesome Remote Team Building
+ 
+ 
+ ## :video_game: Online Games
+| Name   |  Type | Players| Cost | Comments
+|:----------|:-------------:|:-------------:|:-------------:| :-------------:|
+| [TypeRacer](https://play.typeracer.com/) |  Web | 8+ | FREE |
+| [Skribbl](http://skribbl.io/) |  Web |  8+   |   FREE |
+| [DrawBattle](https://drawbattle.io/) | Web | 8+ |    FREE |
+| [Gartic Phone](https://garticphone.com/) | Web | 8+ |    FREE |
+| [Charades](https://randomwordgenerator.com/charades.php) | Web | 8+ |    FREE |
+| [CodeNames](https://codenames.game) | Web | 8+ |    FREE |
+| [Bingo](https://myfreebingocards.com/virtual-bingo) | Web | 8+ |    FREE |
+| Mario Kart Tour [iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) & [Android](https://play.google.com/store/apps/details?id=com.nintendo.zaka&gl=US) | Mobile | up to 8 |    FREE | [Nintendo Account](https://accounts.nintendo.com/login) is required
+| [Rocket Bot Royale](https://www.crazygames.com/game/rocket-bot-royale)| Web | 8+ |    FREE |
+
+ ## :shaved_ice: Ice-Breakers
+ 
